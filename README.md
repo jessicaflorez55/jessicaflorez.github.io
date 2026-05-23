@@ -1,4 +1,7 @@
 # jessicaflorez.github.io
+![Dashboard](images/dashboard)
+
+
 📊 RappiPlus: De datos a decisiones de negocio
 
 **Desafío**
