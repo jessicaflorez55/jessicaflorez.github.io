@@ -24,34 +24,40 @@ Calidad y preparación de datos
 Limpieza y validación de tres fuentes de información.
 Tratamiento de inconsistencias y valores faltantes.
 Construcción de datasets listos para análisis.
-imagen
+![Limpieza](images/limpieza_1.png)
+![Limpieza](images/limpieza_2.png)
+c
 
 🔍**Análisis de rentabilidad**
 Cálculo de Revenue, Cost y Profit.
 Identificación de categorías y segmentos más rentables.
 Evaluación de la contribución de cada línea de negocio.
-imagen 
+ 
 **Funnel de conversión**
 Análisis del recorrido de los usuarios desde la primera visita hasta la compra.
 Identificación de los puntos con mayor abandono.
 Detección de oportunidades de optimización del proceso de compra.
-
+![funnel](images/funnel_1.png)
+![funnel](images/funnel_2.png)
 **Retención de usuarios**
 Construcción de cohortes de usuarios.
 Medición del comportamiento de retorno en el tiempo.
 Identificación de patrones de abandono y fidelización.
-imagen
+
+![cohorte](images/cohorte_1.png)  ![cohorte](images/cohorte_2.png)     ![cohorte](images/cohorte_3.png)
 
 **Evaluación de impacto**
 Análisis de un experimento A/B.
 Comparación entre grupo control y tratamiento.
 Validación estadística de resultados para apoyar la toma de decisiones.
 
+![test](images/prueba_AB.png)
+
 **Dashboard ejecutivo**
 Diseño de un dashboard interactivo en Power BI.
 Consolidación de KPIs financieros, conversión y retención.
 Comunicación de insights para stakeholders de negocio.
-imagen dashboard
+![Dashboard](images/dashboard.png)
 
 
 📈**Resultado**
