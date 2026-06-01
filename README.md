@@ -33,7 +33,7 @@ c
 Cálculo de Revenue, Cost y Profit.
 Identificación de categorías y segmentos más rentables.
 Evaluación de la contribución de cada línea de negocio.
- 
+ ![analisis_rentabilidad](images/analisis_rentabilidad.png)
 **Funnel de conversión**
 Análisis del recorrido de los usuarios desde la primera visita hasta la compra.
 Identificación de los puntos con mayor abandono.
@@ -58,7 +58,7 @@ Validación estadística de resultados para apoyar la toma de decisiones.
 Diseño de un dashboard interactivo en Power BI.
 Consolidación de KPIs financieros, conversión y retención.
 Comunicación de insights para stakeholders de negocio.
-![Dashboard](images/dashboard.png)
+![rapiplus_dashboard](images/rapiplus_dashboard.png)
 
 
 📈**Resultado**
