@@ -5,7 +5,7 @@
 
 📊 RappiPlus: De datos a decisiones de negocio
 
-**Desafío**
+**Problema**
 
 RappiPlus buscaba aumentar la frecuencia de compra y el valor generado por usuario mediante un modelo de suscripción. Sin embargo, el equipo de negocio no tenía claridad sobre su desempeño.
 
@@ -17,7 +17,7 @@ RappiPlus buscaba aumentar la frecuencia de compra y el valor generado por usuar
 ¿Los usuarios regresan a la plataforma?
 ¿Los cambios implementados en el producto generan impacto?
 
-**Proceso**
+**Metodologia**
 
 Desarrollé un análisis integral utilizando Python, SQL y Power BI para evaluar el desempeño del servicio desde diferentes perspectivas.
 
@@ -61,7 +61,7 @@ Comunicación de insights para stakeholders de negocio.
 ![rapiplus_dashboard](images/rapiplus_dashboard.png)
 
 
-📈**Resultado**
+📈**Resultados para el Negocio**
 
 El análisis permitió evaluar de manera integral el desempeño de RappiPlus, identificando oportunidades de mejora en conversión, retención y rentabilidad.
 
